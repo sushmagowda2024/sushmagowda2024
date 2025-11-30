@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushmitha Gowda</h1>
 <h3 align="center">Aspiring Data & Business Analyst | Focused on Data Insights, Reporting, and Decision Support</h3>
-# 🌸Hey there, I’m so glad you’re here!
+
+**🌸Hey there, I’m so glad you’re here!**
 Welcome to my little corner of GitHub!
 I’m passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming (and a lot more fun).
 Here, you'll find:
